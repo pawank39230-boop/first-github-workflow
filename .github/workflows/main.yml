@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: greetings
-        run: echo "hello from apun"
+        run: echo "hello from me"
